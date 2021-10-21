@@ -1,0 +1,10 @@
+pymongo==3.10.1
+fastapi-jwt-auth==0.4.0
+fastapi==0.63.0
+pydantic==1.7.3
+numpy==1.20.1
+uvicorn==0.13.3
+requests==2.22.0
+password-validator==1.0
+slowapi==0.1.4
+ratelimit==2.2.1
